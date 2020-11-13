@@ -1,9 +1,7 @@
 # Boston Housing Data Set
 
 
-- Data source: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the 
-demand for clean air', *J. Environ. Economics & Management*,
-vol.5, 81-102, 1978.
+- Data source: **Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', *J. Environ. Economics & Management*, vol.5, 81-102, 1978.**
 - Relevant Information: Concerns housing values in suburbs of Boston.
 - Number of Instances: 506
 - Number of Attributes: 13 continuous attributes (including "class"
