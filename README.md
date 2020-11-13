@@ -1,26 +1,17 @@
 # Boston Housing Data Set
 
-1. Title: Boston Housing Data
-
-2. Sources:
-   (a) Origin:  This dataset was taken from the StatLib library which is
-                maintained at Carnegie Mellon University.
-   (b) Creator:  Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the 
-                 demand for clean air', J. Environ. Economics & Management,
-                 vol.5, 81-102, 1978.
-   (c) Date: July 7, 1993
 
 
-3. Relevant Information:
+Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the 
+demand for clean air', *J. Environ. Economics & Management*,
+vol.5, 81-102, 1978.
 
-   Concerns housing values in suburbs of Boston.
 
-4. Number of Instances: 506
-
-5. Number of Attributes: 13 continuous attributes (including "class"
+- Relevant Information: Concerns housing values in suburbs of Boston.
+- Number of Instances: 506
+- Number of Attributes: 13 continuous attributes (including "class"
                          attribute "MEDV"), 1 binary-valued attribute.
-
-6. Attribute Information:
+- Attribute Information:
 
  1. CRIM      per capita crime rate by town
  2. ZN        proportion of residential land zoned for lots over 
@@ -40,4 +31,3 @@
  13. LSTAT    % lower status of the population
  14. MEDV     Median value of owner-occupied homes in $1000's
 
-8. Missing Attribute Values:  None.
