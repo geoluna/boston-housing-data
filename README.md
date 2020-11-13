@@ -31,3 +31,4 @@ vol.5, 81-102, 1978.
  13. LSTAT    - % lower status of the population
  14. MEDV     - Median value of owner-occupied homes in $1000's
 
+- Columns: CRIM, ZN, 
